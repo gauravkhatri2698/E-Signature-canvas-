@@ -1,0 +1,13 @@
+.signatureCanvas {
+    border: 1px solid black;
+    width: 100%;
+    min-height: 500px;
+}
+
+.clear_canvas {
+    margin-left: 77.85%;
+}
+
+.close_canvas {
+    margin-left: 0.5em;
+}
